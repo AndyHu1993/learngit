@@ -7,3 +7,5 @@ Git tracks changes of files.
 
 Creating a new branch is quick & simple.
 
+test Fast forward.
+
